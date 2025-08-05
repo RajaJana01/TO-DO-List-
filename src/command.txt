@@ -1,0 +1,9 @@
+***for creating react file folder
+=>npx create-react-app todo
+
+***change directory after create app
+=>cd todo
+
+***run the react app
+=>npm start
+
